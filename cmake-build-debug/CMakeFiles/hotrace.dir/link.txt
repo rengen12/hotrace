@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/hotrace.dir/main.c.o CMakeFiles/hotrace.dir/get_next_line.c.o CMakeFiles/hotrace.dir/ft_push_word.c.o CMakeFiles/hotrace.dir/ft_new_branch.c.o  -o hotrace ../libft/libft.a 
